@@ -5,3 +5,16 @@ server:
 email:
   username: root
   password: root
+
+person:
+  age: 18
+  boss: false
+  birth: 2019/10/20
+  map: {k1: v1, K2 : v2}
+  list:
+    - l1
+    - l2
+  dog:
+    name: dog
+    age: 27
+  last-name: person

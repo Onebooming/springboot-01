@@ -31,4 +31,8 @@ public class UserInfoEntity {
     private String age;
 
     private String nickname;
+
+    public Long getId(){
+        return this.id;
+    }
 }
